@@ -1,10 +1,6 @@
 name: ci
 on:
-  push:
-    paths:
-      - ".github/**"
-      - "src/**"
-      - "test/**"
+  push: 
 
 jobs:
 
